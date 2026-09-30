@@ -1,16 +1,37 @@
-# React + Vite
+# Stripe Checkout Exercise ♡
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> learning how payments work.  
+> ₊˚⊹♡ a small class exercise with Stripe & Firebase ♡⊹˚₊
 
-Currently, two official plugins are available:
+A small class exercise exploring how to connect
+a React app to Stripe Checkout through Firebase Functions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✦ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+♡ Fetch product information directly from Stripe
 
-## Expanding the Oxlint configuration
+♡ Display Stripe product data in React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+♡ Create Checkout sessions with Firebase Functions
+
+♡ Redirect to Stripe Checkout for payment
+
+♡ Test payments safely using Stripe Sandbox
+
+---
+
+## ✦ Made with
+
+`React` · `JavaScript` · `Vite`
+
+`Firebase Functions` · `Firebase Emulator Suite` · `Stripe API`
+
+---
+
+<p align="center">
+  made for class with ♡
+  <br>
+  ᜊ ( ' - × ) ᜊ
+</p>
